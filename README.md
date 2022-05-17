@@ -18,7 +18,7 @@
 
   * [Video 1](https://drive.google.com/file/d/1DSvzd3aDxqXPPQDw1LQtEz-UkC4zGicG/view?usp=sharing)
   * [Video 2](https://drive.google.com/file/d/1ZxoYFTGaOgH8FCFq64WInbPnFfZ5aW6Q/view?usp=sharing)
-  * [Github](https://github.com/anikayoka/takeit-notes)
+  * [Github](https://github.com/anikayoka/e-cORMmerce)
   
   ## License
     The application is covered under the following license:
